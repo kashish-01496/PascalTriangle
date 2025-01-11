@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+#triangle-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+    
+
+.cell {
+    padding: 8px;
+    border: 1px solid #ccc;
+    margin: 2px;
+}
+.row {
+    display: flex;
+    justify-content: center;
+}
